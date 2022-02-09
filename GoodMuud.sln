@@ -9,18 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodMuud.Android", "GoodMuu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodMuud.iOS", "GoodMuud\GoodMuud.iOS\GoodMuud.iOS.csproj", "{1E0DB49E-E295-4332-8886-F6BB27458309}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodMuud", "GoodMuud\GoodMuud\GoodMuud.csproj", "{5C55A4C5-4687-4F6A-8B5B-A1C006598A97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodMuud", "GoodMuud\GoodMuud\GoodMuud.csproj", "{5C55A4C5-4687-4F6A-8B5B-A1C006598A97}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D993B797-A01A-4E7F-9310-DE567CF7919E}"
 	ProjectSection(SolutionItems) = preProject
 		DesignSpecification.md = DesignSpecification.md
 		FunctionalSpecification.md = FunctionalSpecification.md
 		Internal milestones.md = Internal milestones.md
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Individual contributions", "Individual contributions", "{F2E57A53-0E92-4611-952C-CA58A0910B41}"
-	ProjectSection(SolutionItems) = preProject
-		README.md = README.md
 	EndProjectSection
 EndProject
 Global
@@ -186,9 +181,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{F2E57A53-0E92-4611-952C-CA58A0910B41} = {D993B797-A01A-4E7F-9310-DE567CF7919E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E0C57DB-2887-449A-862B-70829AF7250B}
