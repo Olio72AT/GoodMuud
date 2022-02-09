@@ -1,4 +1,4 @@
-
+<pre>
 This is the functional description of this project.
 
 ## Contributors
@@ -39,3 +39,4 @@ LAT
 
 ## MILESTONES 
 
+</pre>
