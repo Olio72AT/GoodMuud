@@ -1,3 +1,5 @@
+<pre>
+
 ## DATE NOW 
 ## WHO
 ## TILL 
@@ -24,16 +26,16 @@ Terminate milestone?
 
 
 Specific? 
-+ Grundgestr¸st vorhanden
++ Grundgestr√ºst vorhanden
 + Globale Idee spezisch genug.
 Messurable? 
 + JA
 Attractive?
 + JA
 Realisitic?
-+ JA - Lauff‰hige APP innerhalb der n‰chsten 6 Wochen schaffbar. 
++ JA - Lauff√§hige APP innerhalb der n√§chsten 6 Wochen schaffbar. 
 Terminate milestone? 
-+ JA - 16.3. Vorstellung / Pr‰sentation 
++ JA - 16.3. Vorstellung / Pr√§sentation 
 
 ---------------------------------
 
@@ -43,4 +45,4 @@ Plan:
 * Team festgelegt
 * Beginn FUNC SPEC 
 
-
+</pre>
