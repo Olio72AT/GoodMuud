@@ -1,2 +1,1 @@
-# GoodMuud
-GoodMuud App to increase your motivation
+Each individual contributor should work in its own files ... here.
