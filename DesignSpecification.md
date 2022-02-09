@@ -1,3 +1,4 @@
+<pre>
 ## Design Specification
 
 ## Functional blocks - description
@@ -29,4 +30,5 @@
 
 
 
+</pre>
 
