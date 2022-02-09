@@ -15,6 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		DesignSpecification.md = DesignSpecification.md
 		FunctionalSpecification.md = FunctionalSpecification.md
+		GroupRules.md = GroupRules.md
 		Internal milestones.md = Internal milestones.md
 	EndProjectSection
 EndProject
